@@ -6,6 +6,7 @@ int main(){
     int array[5];
     int soma = 0;
     printf("digite 5 numeros inteiros: ");
+    // 1 [enter] 2 [enter] ... 5 [enter]
     for (int i = 0; i < 5; i++){
         scanf("%d", &array[i]);
         soma += array[i];
@@ -13,3 +14,4 @@ int main(){
     printf("soma: %d", soma);
     return 0;
 }
+
