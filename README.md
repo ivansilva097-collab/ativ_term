@@ -1,5 +1,8 @@
 # atividade termometro
 
+Aluno: Ivan Marques da Silva 20250052960
+Matéria: LINGUAGEM DE PROGRAMAÇÃO I - T01
+
 Como compilar e executar:
 
 Abra o terminal na pasta do projeto.
